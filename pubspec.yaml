@@ -1,0 +1,17 @@
+name: knuffikanadesktop
+description: Kana trainer.
+
+publish_to: 'none'
+
+version: 0.0.1
+
+environment:
+  sdk: ">=2.16.0-134.1.beta <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  scrollable_positioned_list: "^0.2.3"
+
+dev_dependencies:
+  flutter_lints: "^1.0.4"
